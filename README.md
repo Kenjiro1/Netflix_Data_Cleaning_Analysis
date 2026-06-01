@@ -57,6 +57,8 @@ Análise exploratória e visualizações.
 Identificação de padrões e histórias presentes nos dados.
 Comparação entre a abordagem baseada apenas em AutoML e uma abordagem orientada por análise de dados.
 Uso de modelos simples para validar hipóteses e gerar insights.
+
+
 ✅ Conclusão
 
 Antes de investir em modelos complexos, é importante entender os dados.
