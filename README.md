@@ -18,6 +18,7 @@ Maior custo computacional
 Modelos menos precisos
 Baixa explicabilidade
 Maior dificuldade de manutenção
+
 🧹 Por que Limpar os Dados?
 
 A limpeza dos dados ajuda a:
