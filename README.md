@@ -1,4 +1,4 @@
-#Netflix Data Analysis: A Importância da Limpeza e Visualização de Dados
+## Netflix Data Analysis: A Importância da Limpeza e Visualização de Dados
 🎯 Objetivo
 
 Este projeto utiliza uma base de dados da Netflix para demonstrar como a limpeza de dados e a análise exploratória (EDA) impactam diretamente a qualidade dos resultados em projetos de Machine Learning.
